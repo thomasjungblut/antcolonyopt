@@ -8,7 +8,7 @@ The repository includes the Berlin52 problem, but can be adapted to virtually ev
 
 The throughput on my machine (i7-5820k @ 3.3ghz and ddr4 RAM) is roughly 13 agents per millisecond (or ~1 agent per logical core per millisecond) and it scales linearly with more cores.
 
-For more details, consult [Wikipedia](http://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) or [my blob post from 2011](http://codingwiththomas.blogspot.co.uk/2011/08/ant-colony-optimization-for-tsp.html). 
+For more details, consult [Wikipedia](http://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms) or [my blog post from 2011](http://codingwiththomas.blogspot.co.uk/2011/08/ant-colony-optimization-for-tsp.html). 
 
 Initially this was a prototype for a paper in Software Engineering (second semester undergraduation). 
 Since Google Code closed it's gates, I decided to rewrite major parts and port it to Java 8- although for the most part, it should work with Java 6 without major modifications.
